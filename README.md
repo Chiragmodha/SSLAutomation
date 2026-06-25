@@ -17,5 +17,5 @@ docker-compose up --build -d
 ```
 
 ### 2. Access the Application
-- **Frontend Dashboard**: `http://localhost:3000`
+- **Frontend Dashboard**: `http://localhost:3001`
 - **Backend API Server**: `http://localhost:5000`
